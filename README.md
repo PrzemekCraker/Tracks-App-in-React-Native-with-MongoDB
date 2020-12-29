@@ -42,7 +42,7 @@ $ npm run dev
 
 ```
 
-<img src="nodemonExp.png" alt="nodemon.png">
+<img src="nodemonExp.PNG" alt="nodemon.png">
 
 In app directory run the ngrok (public URL) via command
 
@@ -54,7 +54,7 @@ $ ngrok http 3000
 
 Then copy forwarding link url to tracker.js -> baseURL
 
-<img src="ngrokExp.png" alt="ngrok.png">
+<img src="ngrokExp.PNG" alt="ngrok.png">
 
 Finally, launch the application
 
